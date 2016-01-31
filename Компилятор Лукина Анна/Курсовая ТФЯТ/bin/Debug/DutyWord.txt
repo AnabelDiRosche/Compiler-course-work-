@@ -1,0 +1,17 @@
+﻿program
+var
+begin
+end
+dim
+integer
+real
+boolean
+by
+else
+do
+while
+loop
+for
+to
+input
+output
